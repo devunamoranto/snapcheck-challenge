@@ -3,7 +3,7 @@
 # Encryption
 
 An English text needs to be encrypted using the following encryption scheme.
-First, the spaces are removed from the text. Let  be the length of this text.
+First, the spaces are removed from the text. Let L be the length of this text.
 Then, characters are written into a grid, whose rows and columns have the following constraints:
 
 ![GitHub Logo](encryption.png)
